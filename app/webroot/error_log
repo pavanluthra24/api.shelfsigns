@@ -1,0 +1,94 @@
+[22-Jul-2015 11:28:47 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/selfsigns/app/Model/User.php on line 57
+[22-Jul-2015 13:49:53 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 57
+[22-Jul-2015 13:51:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 57
+[22-Jul-2015 13:53:21 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 57
+[22-Jul-2015 13:53:30 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 56
+[22-Jul-2015 13:53:33 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 56
+[22-Jul-2015 13:55:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 57
+[22-Jul-2015 13:56:10 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/Product.php on line 97
+[22-Jul-2015 13:59:15 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/Product.php on line 97
+[22-Jul-2015 13:59:26 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 56
+[22-Jul-2015 14:01:33 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 56
+[22-Jul-2015 14:01:45 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 56
+[22-Jul-2015 14:05:27 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 56
+[22-Jul-2015 14:05:31 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 56
+[22-Jul-2015 14:08:51 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 56
+[22-Jul-2015 14:09:56 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 56
+[22-Jul-2015 14:11:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 58
+[22-Jul-2015 14:12:18 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 65
+[22-Jul-2015 14:15:39 UTC] PHP Fatal error:  Class 'AuthComponent' not found in /home/pavanluthra/public_html/shelfsigns/app/Model/User.php on line 112
+[22-Jul-2015 14:22:06 UTC] PHP Fatal error:  Can't use method return value in write context in /home/pavanluthra/public_html/shelfsigns/app/Model/Product.php on line 97
+[22-Jul-2015 14:24:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/pavanluthra/public_html/shelfsigns/app/Model/Product.php on line 83
+[23-Jul-2015 05:41:13 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/pavanluthra/public_html/shelfsigns/app/Controller/AppController.php on line 40
+[23-Jul-2015 05:42:17 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/pavanluthra/public_html/shelfsigns/app/Controller/AppController.php on line 40
+[12-Aug-2015 09:55:14 UTC] PHP Fatal error:  Call to a member function commit() on a non-object in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 136
+[12-Aug-2015 14:12:31 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 133
+[12-Aug-2015 14:20:03 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 133
+[12-Aug-2015 14:23:38 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 133
+[12-Aug-2015 14:29:44 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 133
+[12-Aug-2015 14:42:30 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 133
+[12-Aug-2015 14:44:59 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 133
+[12-Aug-2015 14:45:11 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 133
+[12-Aug-2015 14:45:49 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 133
+[12-Aug-2015 14:46:56 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 133
+[12-Aug-2015 14:47:32 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 133
+[12-Aug-2015 14:47:54 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 133
+[14-Aug-2015 05:33:18 UTC] PHP Fatal error:  Call to undefined method ProductsController::imageUpload() in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 157
+[14-Aug-2015 05:37:30 UTC] PHP Fatal error:  Call to undefined method ProductsController::imageUpload() in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 157
+[14-Aug-2015 05:39:48 UTC] PHP Fatal error:  Call to undefined method ProductsController::imageUpload() in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 157
+[14-Aug-2015 05:41:08 UTC] PHP Fatal error:  Call to undefined method ProductsController::imageUpload() in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 157
+[14-Aug-2015 05:42:40 UTC] PHP Fatal error:  Call to undefined method ProductsController::imageUpload() in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 157
+[17-Aug-2015 08:47:32 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machine.php on line 43
+[17-Aug-2015 08:48:41 UTC] PHP Fatal error:  Cannot redeclare class Product in /home/pavanluthra/public_html/shelfsigns/app/Model/Machine.php on line 4
+[17-Aug-2015 10:30:54 UTC] PHP Fatal error:  Call to a member function commit() on a non-object in /home/pavanluthra/public_html/shelfsigns/app/Controller/MachinesController.php on line 28
+[17-Aug-2015 10:31:36 UTC] PHP Fatal error:  Call to a member function begin() on a non-object in /home/pavanluthra/public_html/shelfsigns/app/Controller/MachinesController.php on line 24
+[17-Aug-2015 10:31:36 UTC] PHP Fatal error:  Call to a member function begin() on a non-object in /home/pavanluthra/public_html/shelfsigns/app/Controller/MachinesController.php on line 24
+[17-Aug-2015 10:31:54 UTC] PHP Fatal error:  Call to a member function begin() on a non-object in /home/pavanluthra/public_html/shelfsigns/app/Controller/MachinesController.php on line 24
+[17-Aug-2015 10:31:55 UTC] PHP Fatal error:  Call to a member function begin() on a non-object in /home/pavanluthra/public_html/shelfsigns/app/Controller/MachinesController.php on line 24
+[17-Aug-2015 11:25:39 UTC] PHP Parse error:  syntax error, unexpected 'getAllMachine' (T_STRING), expecting function (T_FUNCTION) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machine.php on line 16
+[17-Aug-2015 11:25:48 UTC] PHP Parse error:  syntax error, unexpected 'getAllMachine' (T_STRING), expecting function (T_FUNCTION) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machine.php on line 16
+[17-Aug-2015 11:26:19 UTC] PHP Parse error:  syntax error, unexpected 'getAllMachine' (T_STRING), expecting function (T_FUNCTION) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machine.php on line 16
+[17-Aug-2015 11:26:43 UTC] PHP Parse error:  syntax error, unexpected 'getAllMachine' (T_STRING), expecting function (T_FUNCTION) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machine.php on line 16
+[18-Aug-2015 08:49:47 UTC] PHP Parse error:  syntax error, unexpected ''machinestatus'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/pavanluthra/public_html/shelfsigns/app/Model/Machine.php on line 46
+[18-Aug-2015 08:50:19 UTC] PHP Parse error:  syntax error, unexpected ''machinestatus'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/pavanluthra/public_html/shelfsigns/app/Model/Machine.php on line 46
+[19-Aug-2015 06:52:58 UTC] PHP Fatal error:  Call to a member function getDataSource() on a non-object in /home/pavanluthra/public_html/shelfsigns/app/Controller/MachineproductController.php on line 32
+[19-Aug-2015 07:07:47 UTC] PHP Fatal error:  Call to a member function getDataSource() on a non-object in /home/pavanluthra/public_html/shelfsigns/app/Controller/MachineproductsController.php on line 32
+[19-Aug-2015 07:08:55 UTC] PHP Fatal error:  Call to a member function getDataSource() on a non-object in /home/pavanluthra/public_html/shelfsigns/app/Controller/MachineproductsController.php on line 32
+[19-Aug-2015 07:11:16 UTC] PHP Fatal error:  Call to a member function getDataSource() on a non-object in /home/pavanluthra/public_html/shelfsigns/app/Controller/MachineproductsController.php on line 32
+[19-Aug-2015 07:13:46 UTC] PHP Fatal error:  Call to a member function getDataSource() on a non-object in /home/pavanluthra/public_html/shelfsigns/app/Controller/MachineproductsController.php on line 32
+[19-Aug-2015 07:18:12 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 17
+[19-Aug-2015 07:18:58 UTC] PHP Fatal error:  Cannot redeclare class Machine in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 4
+[19-Aug-2015 08:50:44 UTC] PHP Fatal error:  Call to undefined function find() in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 18
+[19-Aug-2015 08:51:51 UTC] PHP Fatal error:  Call to undefined function find() in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 18
+[19-Aug-2015 09:58:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/pavanluthra/public_html/shelfsigns/app/Model/Machine.php on line 43
+[19-Aug-2015 10:21:51 UTC] PHP Parse error:  syntax error, unexpected ''Product'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 22
+[19-Aug-2015 10:22:44 UTC] PHP Fatal error:  Cannot redeclare Machineproduct::$belongsTo in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 23
+[19-Aug-2015 11:58:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pavanluthra/public_html/shelfsigns/app/Model/Machine.php on line 47
+[21-Aug-2015 12:25:52 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 18
+[21-Aug-2015 12:26:11 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 18
+[26-Aug-2015 07:21:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 50
+[26-Aug-2015 07:23:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 50
+[26-Aug-2015 07:24:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 50
+[26-Aug-2015 07:26:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 50
+[26-Aug-2015 07:27:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 50
+[26-Aug-2015 07:28:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 50
+[26-Aug-2015 07:28:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 50
+[26-Aug-2015 07:30:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 50
+[26-Aug-2015 07:30:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 50
+[26-Aug-2015 08:29:33 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 43
+[26-Aug-2015 08:29:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 43
+[26-Aug-2015 08:33:32 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 43
+[26-Aug-2015 08:34:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 44
+[26-Aug-2015 11:45:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/pavanluthra/public_html/shelfsigns/app/Controller/ProductsController.php on line 164
+[04-Sep-2015 12:20:26 UTC] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 67
+[04-Sep-2015 12:21:38 UTC] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 67
+[04-Sep-2015 12:21:43 UTC] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 67
+[04-Sep-2015 12:21:57 UTC] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 67
+[04-Sep-2015 12:22:15 UTC] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 67
+[04-Sep-2015 12:22:17 UTC] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/pavanluthra/public_html/shelfsigns/app/Model/Machineproduct.php on line 67
+[07-Sep-2015 10:42:03 UTC] PHP Parse error:  syntax error, unexpected '' ' (T_ENCAPSED_AND_WHITESPACE) in /home/pavanluthra/public_html/shelfsigns/app/Controller/MachineproductsController.php on line 149
+[16-Sep-2015 11:21:42 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ')' in /home/pavanluthra/public_html/shelfsigns/app/Model/Machine.php on line 56
+[16-Sep-2015 11:22:02 UTC] PHP Fatal error:  Call to a member function commit() on a non-object in /home/pavanluthra/public_html/shelfsigns/app/Controller/MachinesController.php on line 115
+[16-Sep-2015 11:26:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/pavanluthra/public_html/shelfsigns/app/Model/Machine.php on line 56
+[18-Sep-2015 06:44:30 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/pavanluthra/public_html/shelfsigns/app/Controller/MachineproductsController.php on line 142
+[18-Sep-2015 08:49:38 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/pavanluthra/public_html/shelfsigns/app/Controller/MachineproductsController.php on line 130
